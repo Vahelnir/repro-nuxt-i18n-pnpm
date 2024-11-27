@@ -7,5 +7,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "peerDependencies": {}
+  "peerDependencies": {
+    "vue-i18n": "^8.28.2"
+  }
 }
