@@ -1,0 +1,13 @@
+{
+  "name": "repro-nuxt-i18n-pnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@9.14.2+sha1.5202b50ab92394b3c922d2e293f196e2df6d441b"
+}
